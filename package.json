@@ -25,6 +25,6 @@
     "vuetify": "^3.2.2"
   },
   "dependencies": {
-    "prisma": "^4.13.0"
+    "prisma": "^4.14.1"
   }
 }
